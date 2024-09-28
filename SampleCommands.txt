@@ -1,0 +1,3 @@
+git add filename -- to add new file to local branch directory and stage
+git commit -m "message"  -- to commit changes to local branch
+git push  origin main -- to push the staged changes to either main or branch
